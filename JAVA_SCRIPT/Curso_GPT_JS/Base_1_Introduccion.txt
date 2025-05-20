@@ -1,0 +1,48 @@
+Nivel 1: Fundamentos de JavaScript
+1 ¿Qué es JavaScript y cómo se usa?
+2 Sintaxis básica: variables, tipos de datos, operadores
+3 Estructuras de control: if, switch, for, while
+4 Funciones y alcance (scope)
+5 Arreglos y objetos
+
+🛠️ Nivel 2: Interactividad y DOM
+Manipulación del DOM (Document Object Model)
+
+Eventos (click, submit, etc.)
+
+Formularios e inputs
+
+🧠 Nivel 3: Lógica avanzada y estructuras
+Funciones de orden superior y callbacks
+
+Métodos de arreglos (map, filter, reduce)
+
+Desestructuración, spread/rest
+
+Clases y programación orientada a objetos
+
+🌐 Nivel 4: Asincronía y APIs
+Promesas y async/await
+
+Fetch API
+
+Consumo de APIs externas
+
+🧩 Nivel 5: Herramientas modernas
+ES6+ features
+
+Módulos y import/export
+
+Bundlers como Vite o Webpack (introducción)
+
+Uso de NPM y librerías
+
+🏗️ Nivel 6: Proyectos
+Proyecto 1: To-Do List
+
+Proyecto 2: Aplicación de clima con API
+
+Proyecto 3: Juego tipo trivia o adivinanzas
+
+Proyecto 4: Mini e-commerce con carrito
+
