@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudiante de Ingeniería Informática | Desarrollador Web & Móvil | Apasionado por la Tecnología
+  Estudiante de Ingeniería Informática | Desarrollador Web & Móvil | Apasionado por el conocimiento
 </p>
 
 ---
