@@ -1,60 +1,58 @@
-<h1 align="center">Hola, soy Alexander 👋</h1>
+<h1 align="center">👨‍💻 Alexander Seydewitz</h1>
 
 <p align="center">
-  💻 Desarrollador en formación | 🎓 Estudiante de Ingeniería | 📍 Chile
+  <img src="https://avatars.githubusercontent.com/u/104519818?v=4" width="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AleSama001/AleSama001/main/Assets/Banner.png" alt="Banner" width="80%" />
-</p>
-
----
-
-### ✨ Sobre mí
-
-¡Hola! Soy Alexander, un entusiasta del desarrollo web, la programación y el análisis de datos.  
-Actualmente estoy profundizando en JavaScript y tecnologías modernas para crear proyectos útiles, funcionales y con buen diseño.
-
-- 🎯 Apasionado por el aprendizaje constante  
-- 👨‍💻 En proceso de construir soluciones prácticas  
-- 📊 Interesado en Big Data, visualización y automatización  
-
----
-
-### 🛠️ Tecnologías que uso
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,angular,django,php,python,java,oracle,mysql,firebase,git" />
+  Estudiante de Ingeniería Informática | Desarrollador Web & Móvil | Apasionado por la Tecnología
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+
+<!-- Lenguajes -->
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60" title="Python" />
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" title="Java" />
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" title="TypeScript" />
+
+<!-- Frameworks -->
+<img src="https://media.giphy.com/media/1fudOUlHeqNxhxK3z9/giphy.gif" width="60" title="Angular" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" title="Django" />
+
+<!-- Bases de Datos -->
+<img src="https://media.giphy.com/media/UQMF3LS9Dfx7G/giphy.gif" width="60" title="MySQL" />
+<img src="https://media.giphy.com/media/3o7TKzT6sZfLemXK5C/giphy.gif" width="60" title="SQL Server" />
+
+<!-- Herramientas -->
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0x4LI/giphy.gif" width="60" title="Git" />
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="Linux" />
+
+</div>
+
+---
+
+## 📚 Certificaciones y Conocimientos
+
+- Desarrollo Web con **Angular** y **Django**
+- Desarrollo de aplicaciones móviles con **TypeScript**
+- Administración y gestión de **bases de datos relacionales**
+- Soporte técnico y herramientas de **ticketing**
+- Buen manejo de entornos **Linux** y sistemas de control de versiones (**Git**)
+- Nivel de inglés: **Intermedio-Alto**
+
+---
+
+## 📫 Contacto
+
+- 📞 +569 5122 8725  
+- 📧 sseydewitz20@gmail.com  
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleSama001&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleSama001&theme=radical" alt="Racha de contribuciones" />
-</p>
-
----
-
-### 🤝 ¿Quieres colaborar?
-
-- Si te interesa colaborar en algún proyecto, ¡no dudes en contactarme!
-- También puedes seguirme para ver mis avances 🚀
-
----
-
-### 📫 Cómo contactarme
-
-- 📧 **Correo:** sseydewitz20@gmail.com  
-- 💼 **LinkedIn:** [Alexander Seydewitz](https://www.linkedin.com/in/alexander-seydewitz-b3793a230/)
-
----
-
-### 👁️ Seguimiento del perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleSama001&label=Vistas+al+perfil&color=blue" alt="Vistas al perfil" />
+  <i>"Siempre en busca de aprender, mejorar y aportar valor a través de la tecnología."</i>
 </p>
