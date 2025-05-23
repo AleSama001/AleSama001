@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Alexander Seydewitz</h1>
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/104519818?v=4" width="150" style="border-radius: 50%;" />
